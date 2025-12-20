@@ -1,1 +1,2 @@
 # Advanced_Java_Practice
+"This repository is a structured collection of Advanced Java concepts and practical implementations developed during my learning journey, covering key technologies such as JDBC, JSP, and Servlets, along with database connectivity, MVC architecture, session management, form handling, and request–response flow, supported by hands-on examples that demonstrate building dynamic, scalable, and database-driven web applications using Java."
